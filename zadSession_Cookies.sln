@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadSession_Cookies", "zadSession_Cookies\zadSession_Cookies.csproj", "{428D7D32-7AE2-4BAD-94FE-27F3E5F8DC95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{428D7D32-7AE2-4BAD-94FE-27F3E5F8DC95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{428D7D32-7AE2-4BAD-94FE-27F3E5F8DC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{428D7D32-7AE2-4BAD-94FE-27F3E5F8DC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{428D7D32-7AE2-4BAD-94FE-27F3E5F8DC95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C28857E1-55D1-4A60-873A-EF4EDBC55AF5}
+	EndGlobalSection
+EndGlobal
